@@ -1,1 +1,2 @@
 file1.txt
+mengisi file1.txt dengan sebaris kalimat
